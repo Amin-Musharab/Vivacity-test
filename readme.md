@@ -39,7 +39,7 @@ Before running the application, you need to set up the database. Follow these st
 create database applicant_management_system_db;
 ```
 
-Update the database configuration in the ormconfig.json file located in the root directory of the application. Replace the placeholder values for the host, port, username, password, and database name with your PostgreSQL database configuration.
+Create the ormconfig.json file located in the root directory of the application and update the database configuration. Replace the placeholder values for the host, port, username, password, and database name with your PostgreSQL database configuration.
 json
 
 ```
